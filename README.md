@@ -6,9 +6,7 @@ A map of **201 U.S. national universities ranked 200 or better** in the 2027 U.S
 
 ## Original map and credit
 
-Based on the [2026 map](https://www.google.com/maps/d/viewer?mid=1ejHyjTJx0D7FoI_xaUDileyIFoDkjK4) by **[liaoyanqing666 (聊言青)](https://github.com/liaoyanqing666)**. Credit to the original author for the map concept, five ranking groups and colors, most Chinese university names, and the 2026 ranking information used for comparison.
-
-This edition was rebuilt with updated rankings and NCES institution coordinates. The generator was independently written. The author's [profile README](https://github.com/liaoyanqing666/liaoyanqing666) links to Google My Maps; no separate map source-code repository was found during preparation.
+Based on the [2026 map](https://www.google.com/maps/d/viewer?mid=1ejHyjTJx0D7FoI_xaUDileyIFoDkjK4) by **[liaoyanqing666](https://github.com/liaoyanqing666)**. Credit to the original author for the map concept, five ranking groups and colors, most Chinese university names, and the 2026 ranking information used for comparison.
 
 ![2027 university map preview](assets/map-preview.png)
 
