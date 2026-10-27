@@ -1,0 +1,71 @@
+{
+  "verified_at": "2026-10-26T15:11:28.685Z",
+  "total": 201,
+  "layers": [
+    {
+      "layer": "TOP10",
+      "count": 11,
+      "copied2026": true,
+      "columns": [
+        "name",
+        "2027 USNEWS Ranking",
+        "Chinese name",
+        "English name",
+        "City / State",
+        "2026 USNEWS Ranking"
+      ]
+    },
+    {
+      "layer": "TOP30",
+      "count": 19,
+      "copied2026": true,
+      "columns": [
+        "name",
+        "2027 USNEWS Ranking",
+        "Chinese name",
+        "English name",
+        "City / State",
+        "2026 USNEWS Ranking"
+      ]
+    },
+    {
+      "layer": "TOP50",
+      "count": 21,
+      "copied2026": true,
+      "columns": [
+        "name",
+        "2027 USNEWS Ranking",
+        "Chinese name",
+        "English name",
+        "City / State",
+        "2026 USNEWS Ranking"
+      ]
+    },
+    {
+      "layer": "TOP100",
+      "count": 57,
+      "copied2026": true,
+      "columns": [
+        "name",
+        "2027 USNEWS Ranking",
+        "Chinese name",
+        "English name",
+        "City / State",
+        "2026 USNEWS Ranking"
+      ]
+    },
+    {
+      "layer": "TOP200",
+      "count": 93,
+      "copied2026": true,
+      "columns": [
+        "name",
+        "2027 USNEWS Ranking",
+        "Chinese name",
+        "English name",
+        "City / State",
+        "2026 USNEWS Ranking"
+      ]
+    }
+  ]
+}

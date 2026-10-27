@@ -1,0 +1,318 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>TOP10</name>
+    <Style id="TOP10">
+      <IconStyle>
+        <color>ff1427A5</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="TOP30">
+      <IconStyle>
+        <color>ff5252FF</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="TOP50">
+      <IconStyle>
+        <color>ff25A8F9</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="TOP100">
+      <IconStyle>
+        <color>ff00EAFF</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="TOP200">
+      <IconStyle>
+        <color>ffBDBDBD</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>TOP10</name>
+      <Placemark>
+        <name>1. 麻省理工学院 Massachusetts Institute of Technology</name>
+        <styleUrl>#TOP10</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>1</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>麻省理工学院</value>
+          </Data>
+          <Data name="English name">
+            <value>Massachusetts Institute of Technology</value>
+          </Data>
+          <Data name="City / State">
+            <value>Cambridge, MA</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-71.093226,42.359243,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2. 普林斯顿大学 Princeton University</name>
+        <styleUrl>#TOP10</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>2</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>普林斯顿大学</value>
+          </Data>
+          <Data name="English name">
+            <value>Princeton University</value>
+          </Data>
+          <Data name="City / State">
+            <value>Princeton, NJ</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-74.659365,40.348732,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3. 哈佛大学 Harvard University</name>
+        <styleUrl>#TOP10</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>3</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>哈佛大学</value>
+          </Data>
+          <Data name="English name">
+            <value>Harvard University</value>
+          </Data>
+          <Data name="City / State">
+            <value>Cambridge, MA</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-71.118313,42.374471,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4. 耶鲁大学 Yale University</name>
+        <styleUrl>#TOP10</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>4</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>耶鲁大学</value>
+          </Data>
+          <Data name="English name">
+            <value>Yale University</value>
+          </Data>
+          <Data name="City / State">
+            <value>New Haven, CT</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-72.926688,41.311158,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5. 加州理工学院 California Institute of Technology</name>
+        <styleUrl>#TOP10</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>5（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>加州理工学院</value>
+          </Data>
+          <Data name="English name">
+            <value>California Institute of Technology</value>
+          </Data>
+          <Data name="City / State">
+            <value>Pasadena, CA</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>11</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-118.125878,34.137349,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5. 斯坦福大学 Stanford University</name>
+        <styleUrl>#TOP10</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>5（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>斯坦福大学</value>
+          </Data>
+          <Data name="English name">
+            <value>Stanford University</value>
+          </Data>
+          <Data name="City / State">
+            <value>Stanford, CA</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.167359,37.429434,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7. 宾夕法尼亚大学 University of Pennsylvania</name>
+        <styleUrl>#TOP10</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>7</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>宾夕法尼亚大学</value>
+          </Data>
+          <Data name="English name">
+            <value>University of Pennsylvania</value>
+          </Data>
+          <Data name="City / State">
+            <value>Philadelphia, PA</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>7</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-75.193910,39.950929,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>8. 杜克大学 Duke University</name>
+        <styleUrl>#TOP10</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>8</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>杜克大学</value>
+          </Data>
+          <Data name="English name">
+            <value>Duke University</value>
+          </Data>
+          <Data name="City / State">
+            <value>Durham, NC</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>7</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-78.937624,36.001135,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>9. 约翰霍普金斯大学 Johns Hopkins University</name>
+        <styleUrl>#TOP10</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>9（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>约翰霍普金斯大学</value>
+          </Data>
+          <Data name="English name">
+            <value>Johns Hopkins University</value>
+          </Data>
+          <Data name="City / State">
+            <value>Baltimore, MD</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>7</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-76.621595,39.328977,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>9. 西北大学 Northwestern University</name>
+        <styleUrl>#TOP10</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>9（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>西北大学</value>
+          </Data>
+          <Data name="English name">
+            <value>Northwestern University</value>
+          </Data>
+          <Data name="City / State">
+            <value>Evanston, IL</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>7</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-87.679858,42.050356,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>9. 芝加哥大学 University of Chicago</name>
+        <styleUrl>#TOP10</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>9（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>芝加哥大学</value>
+          </Data>
+          <Data name="English name">
+            <value>University of Chicago</value>
+          </Data>
+          <Data name="City / State">
+            <value>Chicago, IL</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>6</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-87.599539,41.787994,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,29 @@
+{
+  "google_map_edit_url": "https://www.google.com/maps/d/u/0/edit?mid=1yAEtqG9k-oBaHtPVAxzdGeHfrhGSr9w",
+  "created_for": "2027 Best Colleges / National Universities",
+  "verified_on": "2026-10-26",
+  "schools": 201,
+  "layer_counts": {
+    "TOP10": 11,
+    "TOP30": 19,
+    "TOP50": 21,
+    "TOP100": 57,
+    "TOP200": 93
+  },
+  "ranking_source": "https://xuanxiao.org/en/rankings/usnews/regional/national-universities",
+  "coordinate_source": "https://catalog.data.gov/dataset/postsecondary-school-locations-2024-25",
+  "google_map_view_url": "https://www.google.com/maps/d/u/0/viewer?mid=1yAEtqG9k-oBaHtPVAxzdGeHfrhGSr9w&ll=35.55365923502805%2C-114.375722&z=4",
+  "sharing": "private_owner_only",
+  "import_verified": true,
+  "map_title": "2027 USNEWS TOP200美国大学分布地图",
+  "map_description": "2027 U.S. News Top 200 National Universities Map\n\nOfficial Rankings: https://www.usnews.com/best-colleges/rankings/national-universities\n\nBased on the 2026 map by liaoyanqing666.\nhttps://www.google.com/maps/d/viewer?mid=1ejHyjTJx0D7FoI_xaUDileyIFoDkjK4",
+  "display_fields": [
+    "name",
+    "2027 USNEWS Ranking",
+    "Chinese name",
+    "English name",
+    "City / State",
+    "2026 USNEWS Ranking"
+  ],
+  "github_repository": "https://github.com/YanzhouTang/usnews-2027-university-map"
+}

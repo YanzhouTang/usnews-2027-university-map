@@ -1,0 +1,1422 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>TOP100</name>
+    <Style id="TOP10">
+      <IconStyle>
+        <color>ff1427A5</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="TOP30">
+      <IconStyle>
+        <color>ff5252FF</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="TOP50">
+      <IconStyle>
+        <color>ff25A8F9</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="TOP100">
+      <IconStyle>
+        <color>ff00EAFF</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="TOP200">
+      <IconStyle>
+        <color>ffBDBDBD</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>TOP100</name>
+      <Placemark>
+        <name>52. 佐治亚大学 University of Georgia</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>52（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>佐治亚大学</value>
+          </Data>
+          <Data name="English name">
+            <value>University of Georgia</value>
+          </Data>
+          <Data name="City / State">
+            <value>Athens, GA</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>46</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-83.374039,33.956262,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>52. 弗吉尼亚理工大学 Virginia Tech</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>52（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>弗吉尼亚理工大学</value>
+          </Data>
+          <Data name="English name">
+            <value>Virginia Tech</value>
+          </Data>
+          <Data name="City / State">
+            <value>Blacksburg, VA</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>51</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-80.423675,37.229012,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>52. 威廉玛丽学院 William &amp; Mary</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>52（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>威廉玛丽学院</value>
+          </Data>
+          <Data name="English name">
+            <value>William &amp; Mary</value>
+          </Data>
+          <Data name="City / State">
+            <value>Williamsburg, VA</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>51</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-76.708214,37.269489,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>55. 宾夕法尼亚州立大学大学公园分校 Pennsylvania State University–University Park</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>55（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>宾夕法尼亚州立大学大学公园分校</value>
+          </Data>
+          <Data name="English name">
+            <value>Pennsylvania State University–University Park</value>
+          </Data>
+          <Data name="City / State">
+            <value>University Park, PA</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>59</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-77.862848,40.796500,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>55. 普渡大学西拉法叶分校 Purdue University–West Lafayette</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>55（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>普渡大学西拉法叶分校</value>
+          </Data>
+          <Data name="English name">
+            <value>Purdue University–West Lafayette</value>
+          </Data>
+          <Data name="City / State">
+            <value>West Lafayette, IN</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>46</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-86.914435,40.428206,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>55. 圣克拉拉大学 Santa Clara University</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>55（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>圣克拉拉大学</value>
+          </Data>
+          <Data name="English name">
+            <value>Santa Clara University</value>
+          </Data>
+          <Data name="City / State">
+            <value>Santa Clara, CA</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>59</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-121.937840,37.348362,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>55. 迈阿密大学 University of Miami</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>55（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>迈阿密大学</value>
+          </Data>
+          <Data name="English name">
+            <value>University of Miami</value>
+          </Data>
+          <Data name="City / State">
+            <value>Coral Gables, FL</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>64</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-80.278662,25.721260,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>59. 布兰迪斯大学 Brandeis University</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>59（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>布兰迪斯大学</value>
+          </Data>
+          <Data name="English name">
+            <value>Brandeis University</value>
+          </Data>
+          <Data name="City / State">
+            <value>Waltham, MA</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>69</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-71.260155,42.365727,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>59. 佛罗里达州立大学 Florida State University</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>59（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>佛罗里达州立大学</value>
+          </Data>
+          <Data name="English name">
+            <value>Florida State University</value>
+          </Data>
+          <Data name="City / State">
+            <value>Tallahassee, FL</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>51</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-84.295064,30.443147,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>59. 乔治华盛顿大学 George Washington University</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>59（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>乔治华盛顿大学</value>
+          </Data>
+          <Data name="English name">
+            <value>George Washington University</value>
+          </Data>
+          <Data name="City / State">
+            <value>Washington, DC</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>59</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-77.048363,38.899230,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>59. 史蒂文斯理工学院 Stevens Institute of Technology</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>59（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>史蒂文斯理工学院</value>
+          </Data>
+          <Data name="English name">
+            <value>Stevens Institute of Technology</value>
+          </Data>
+          <Data name="City / State">
+            <value>Hoboken, NJ</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>80</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-74.025334,40.744776,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>59. 纽约州立大学石溪分校 Stony Brook University</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>59（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>纽约州立大学石溪分校</value>
+          </Data>
+          <Data name="English name">
+            <value>Stony Brook University</value>
+          </Data>
+          <Data name="City / State">
+            <value>Stony Brook, NY</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>59</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-73.120460,40.914760,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>59. 德州农工大学学院站分校 Texas A&amp;M University–College Station</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>59（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>德州农工大学学院站分校</value>
+          </Data>
+          <Data name="English name">
+            <value>Texas A&amp;M University–College Station</value>
+          </Data>
+          <Data name="City / State">
+            <value>College Station, TX</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>51</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-96.336475,30.618726,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>59. 杜兰大学 Tulane University</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>59（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>杜兰大学</value>
+          </Data>
+          <Data name="English name">
+            <value>Tulane University</value>
+          </Data>
+          <Data name="City / State">
+            <value>New Orleans, LA</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>69</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-90.122144,29.940069,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>59. 马萨诸塞大学安姆斯特分校 University of Massachusetts Amherst</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>59（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>马萨诸塞大学安姆斯特分校</value>
+          </Data>
+          <Data name="English name">
+            <value>University of Massachusetts Amherst</value>
+          </Data>
+          <Data name="City / State">
+            <value>Amherst, MA</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>64</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-72.526728,42.385999,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>59. 明尼苏达大学双城分校 University of Minnesota–Twin Cities</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>59（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>明尼苏达大学双城分校</value>
+          </Data>
+          <Data name="English name">
+            <value>University of Minnesota–Twin Cities</value>
+          </Data>
+          <Data name="City / State">
+            <value>Minneapolis, MN</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>59</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-93.235464,44.972851,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>59. 匹兹堡大学 University of Pittsburgh–Pittsburgh Campus</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>59（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>匹兹堡大学</value>
+          </Data>
+          <Data name="English name">
+            <value>University of Pittsburgh–Pittsburgh Campus</value>
+          </Data>
+          <Data name="City / State">
+            <value>Pittsburgh, PA</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>69</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-79.953254,40.444388,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>69. 密歇根州立大学 Michigan State University</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>69（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>密歇根州立大学</value>
+          </Data>
+          <Data name="English name">
+            <value>Michigan State University</value>
+          </Data>
+          <Data name="City / State">
+            <value>East Lansing, MI</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>64</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-84.476111,42.732120,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>69. 伦斯勒理工学院 Rensselaer Polytechnic Institute</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>69（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>伦斯勒理工学院</value>
+          </Data>
+          <Data name="English name">
+            <value>Rensselaer Polytechnic Institute</value>
+          </Data>
+          <Data name="City / State">
+            <value>Troy, NY</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>64</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-73.676646,42.729978,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>69. 加州大学默塞德分校 University of California, Merced</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>69（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>加州大学默塞德分校</value>
+          </Data>
+          <Data name="English name">
+            <value>University of California, Merced</value>
+          </Data>
+          <Data name="City / State">
+            <value>Merced, CA</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>57</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-120.424944,37.366237,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>72. 雪城大学 Syracuse University</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>72</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>雪城大学</value>
+          </Data>
+          <Data name="English name">
+            <value>Syracuse University</value>
+          </Data>
+          <Data name="City / State">
+            <value>Syracuse, NY</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>75</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-76.133989,43.036644,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>73. 纽约州立大学宾汉姆顿分校 Binghamton University</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>73（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>纽约州立大学宾汉姆顿分校</value>
+          </Data>
+          <Data name="English name">
+            <value>Binghamton University</value>
+          </Data>
+          <Data name="City / State">
+            <value>Vestal, NY</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>73</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-75.966889,42.087868,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>73. 霍华德大学 Howard University</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>73（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>霍华德大学</value>
+          </Data>
+          <Data name="English name">
+            <value>Howard University</value>
+          </Data>
+          <Data name="City / State">
+            <value>Washington, DC</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>88</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-77.018966,38.922392,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>73. 印第安纳大学伯明顿分校 Indiana University Bloomington</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>73（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>印第安纳大学伯明顿分校</value>
+          </Data>
+          <Data name="English name">
+            <value>Indiana University Bloomington</value>
+          </Data>
+          <Data name="City / State">
+            <value>Bloomington, IN</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>73</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-86.526559,39.166090,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>73. 北卡罗来纳州立大学 North Carolina State University</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>73（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>北卡罗来纳州立大学</value>
+          </Data>
+          <Data name="English name">
+            <value>North Carolina State University</value>
+          </Data>
+          <Data name="City / State">
+            <value>Raleigh, NC</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>64</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-78.674517,35.785111,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>73. 罗格斯大学纽瓦克分校 Rutgers University–Newark</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>73（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>罗格斯大学纽瓦克分校</value>
+          </Data>
+          <Data name="English name">
+            <value>Rutgers University–Newark</value>
+          </Data>
+          <Data name="City / State">
+            <value>Newark, NJ</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>75</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-74.175809,40.739122,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>73. 康涅狄格大学 University of Connecticut</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>73（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>康涅狄格大学</value>
+          </Data>
+          <Data name="English name">
+            <value>University of Connecticut</value>
+          </Data>
+          <Data name="City / State">
+            <value>Storrs, CT</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>69</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-72.249948,41.809098,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>73. 伍斯特理工学院 Worcester Polytechnic Institute</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>73（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>伍斯特理工学院</value>
+          </Data>
+          <Data name="English name">
+            <value>Worcester Polytechnic Institute</value>
+          </Data>
+          <Data name="City / State">
+            <value>Worcester, MA</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>84</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-71.808339,42.274853,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>80. 克莱姆森大学 Clemson University</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>80（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>克莱姆森大学</value>
+          </Data>
+          <Data name="English name">
+            <value>Clemson University</value>
+          </Data>
+          <Data name="City / State">
+            <value>Clemson, SC</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>75</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-82.835114,34.679381,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>80. 科罗拉多矿业大学 Colorado School of Mines</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>80（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>科罗拉多矿业大学</value>
+          </Data>
+          <Data name="English name">
+            <value>Colorado School of Mines</value>
+          </Data>
+          <Data name="City / State">
+            <value>Golden, CO</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>80</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-105.223364,39.751443,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>80. 德雷塞尔大学 Drexel University</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>80（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>德雷塞尔大学</value>
+          </Data>
+          <Data name="English name">
+            <value>Drexel University</value>
+          </Data>
+          <Data name="City / State">
+            <value>Philadelphia, PA</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>80</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-75.190051,39.955217,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>80. 佩珀代因大学 Pepperdine University</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>80（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>佩珀代因大学</value>
+          </Data>
+          <Data name="English name">
+            <value>Pepperdine University</value>
+          </Data>
+          <Data name="City / State">
+            <value>Malibu, CA</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>84</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-118.707077,34.037786,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>80. 加州大学河滨分校 University of California, Riverside</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>80（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>加州大学河滨分校</value>
+          </Data>
+          <Data name="English name">
+            <value>University of California, Riverside</value>
+          </Data>
+          <Data name="City / State">
+            <value>Riverside, CA</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>75</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-117.327410,33.972460,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>85. 福特汉姆大学 Fordham University</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>85（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>福特汉姆大学</value>
+          </Data>
+          <Data name="English name">
+            <value>Fordham University</value>
+          </Data>
+          <Data name="City / State">
+            <value>Bronx, NY</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>97</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-73.882705,40.859354,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>85. 新泽西理工大学 New Jersey Institute of Technology</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>85（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>新泽西理工大学</value>
+          </Data>
+          <Data name="English name">
+            <value>New Jersey Institute of Technology</value>
+          </Data>
+          <Data name="City / State">
+            <value>Newark, NJ</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>80</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-74.177113,40.741997,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>85. 南卫理公会大学 Southern Methodist University</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>85（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>南卫理公会大学</value>
+          </Data>
+          <Data name="English name">
+            <value>Southern Methodist University</value>
+          </Data>
+          <Data name="City / State">
+            <value>Dallas, TX</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>88</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-96.783365,32.843612,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>85. 纽约州立大学布法罗分校 University at Buffalo, State University of New York</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>85（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>纽约州立大学布法罗分校</value>
+          </Data>
+          <Data name="English name">
+            <value>University at Buffalo, State University of New York</value>
+          </Data>
+          <Data name="City / State">
+            <value>Buffalo, NY</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>75</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-78.789458,43.000942,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>85. 特拉华大学 University of Delaware</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>85（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>特拉华大学</value>
+          </Data>
+          <Data name="English name">
+            <value>University of Delaware</value>
+          </Data>
+          <Data name="City / State">
+            <value>Newark, DE</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>88</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-75.752822,39.679577,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>90. 贝勒大学 Baylor University</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>90（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>贝勒大学</value>
+          </Data>
+          <Data name="English name">
+            <value>Baylor University</value>
+          </Data>
+          <Data name="City / State">
+            <value>Waco, TX</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>88</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-97.121041,31.546872,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>90. 冈萨加大学 Gonzaga University</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>90（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>冈萨加大学</value>
+          </Data>
+          <Data name="English name">
+            <value>Gonzaga University</value>
+          </Data>
+          <Data name="City / State">
+            <value>Spokane, WA</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>102</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-117.400625,47.666531,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>90. 马凯特大学 Marquette University</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>90（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>马凯特大学</value>
+          </Data>
+          <Data name="English name">
+            <value>Marquette University</value>
+          </Data>
+          <Data name="City / State">
+            <value>Milwaukee, WI</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>88</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-87.927961,43.039030,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>90. 德克萨斯基督教大学 Texas Christian University</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>90（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>德克萨斯基督教大学</value>
+          </Data>
+          <Data name="English name">
+            <value>Texas Christian University</value>
+          </Data>
+          <Data name="City / State">
+            <value>Fort Worth, TX</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>97</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-97.364758,32.709610,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>90. 叶史瓦大学 Yeshiva University</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>90（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>叶史瓦大学</value>
+          </Data>
+          <Data name="English name">
+            <value>Yeshiva University</value>
+          </Data>
+          <Data name="City / State">
+            <value>New York, NY</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>84</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-73.929873,40.850605,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>95. 美利坚大学 American University</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>95（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>美利坚大学</value>
+          </Data>
+          <Data name="English name">
+            <value>American University</value>
+          </Data>
+          <Data name="City / State">
+            <value>Washington, DC</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>88</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-77.088875,38.936005,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>95. 罗切斯特理工 Rochester Institute of Technology</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>95（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>罗切斯特理工</value>
+          </Data>
+          <Data name="English name">
+            <value>Rochester Institute of Technology</value>
+          </Data>
+          <Data name="City / State">
+            <value>Rochester, NY</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>88</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-77.673860,43.084188,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>95. 罗格斯大学卡姆登分校 Rutgers University–Camden</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>95（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>罗格斯大学卡姆登分校</value>
+          </Data>
+          <Data name="English name">
+            <value>Rutgers University–Camden</value>
+          </Data>
+          <Data name="City / State">
+            <value>Camden, NJ</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>97</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-75.122240,39.948064,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>95. 伊利诺伊大学芝加哥分校 University of Illinois Chicago</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>95（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>伊利诺伊大学芝加哥分校</value>
+          </Data>
+          <Data name="English name">
+            <value>University of Illinois Chicago</value>
+          </Data>
+          <Data name="City / State">
+            <value>Chicago, IL</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>84</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-87.650503,41.871837,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>95. 密苏里大学哥伦比亚分校 University of Missouri–Columbia</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>95（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>密苏里大学哥伦比亚分校</value>
+          </Data>
+          <Data name="English name">
+            <value>University of Missouri–Columbia</value>
+          </Data>
+          <Data name="City / State">
+            <value>Columbia, MO</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>102</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-92.328843,38.945310,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>100. 奥本大学 Auburn University</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>100（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>奥本大学</value>
+          </Data>
+          <Data name="English name">
+            <value>Auburn University</value>
+          </Data>
+          <Data name="City / State">
+            <value>Auburn, AL</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>102</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-85.488258,32.599378,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>100. 查普曼大学 Chapman University</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>100（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>查普曼大学</value>
+          </Data>
+          <Data name="English name">
+            <value>Chapman University</value>
+          </Data>
+          <Data name="City / State">
+            <value>Orange, CA</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>110</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-117.852518,33.793020,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>100. 克赖顿大学 Creighton University</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>100（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>克赖顿大学</value>
+          </Data>
+          <Data name="English name">
+            <value>Creighton University</value>
+          </Data>
+          <Data name="City / State">
+            <value>Omaha, NE</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>117</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-95.947811,41.265361,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>100. 伊隆大学 Elon University</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>100（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>伊隆大学</value>
+          </Data>
+          <Data name="English name">
+            <value>Elon University</value>
+          </Data>
+          <Data name="City / State">
+            <value>Elon, NC</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>117</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-79.503440,36.104148,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>100. 佛罗里达国际大学 Florida International University</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>100（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>佛罗里达国际大学</value>
+          </Data>
+          <Data name="English name">
+            <value>Florida International University</value>
+          </Data>
+          <Data name="City / State">
+            <value>Miami, FL</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>97</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-80.373928,25.757320,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>100. 圣路易斯大学 Saint Louis University</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>100（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>圣路易斯大学</value>
+          </Data>
+          <Data name="English name">
+            <value>Saint Louis University</value>
+          </Data>
+          <Data name="City / State">
+            <value>Saint Louis, MO</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>102</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-90.235100,38.636801,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>100. 爱荷华大学 University of Iowa</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>100（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>爱荷华大学</value>
+          </Data>
+          <Data name="English name">
+            <value>University of Iowa</value>
+          </Data>
+          <Data name="City / State">
+            <value>Iowa City, IA</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>102</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-91.536425,41.661935,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>100. 圣地亚哥大学 University of San Diego</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>100（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>圣地亚哥大学</value>
+          </Data>
+          <Data name="English name">
+            <value>University of San Diego</value>
+          </Data>
+          <Data name="City / State">
+            <value>San Diego, CA</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>110</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-117.192073,32.770816,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>100. 南佛罗里达大学 University of South Florida</name>
+        <styleUrl>#TOP100</styleUrl>
+        <ExtendedData>
+          <Data name="2027 USNEWS Ranking">
+            <value>100（并列）</value>
+          </Data>
+          <Data name="Chinese name">
+            <value>南佛罗里达大学</value>
+          </Data>
+          <Data name="English name">
+            <value>University of South Florida</value>
+          </Data>
+          <Data name="City / State">
+            <value>Tampa, FL</value>
+          </Data>
+          <Data name="2026 USNEWS Ranking">
+            <value>88</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-82.413232,28.061458,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

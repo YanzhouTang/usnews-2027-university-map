@@ -1,0 +1,1625 @@
+{
+  "total_2027": 201,
+  "matched_original2026": 192,
+  "not_in_original_map": 9,
+  "reviewed_aliases": 36,
+  "note": "2026 ranks are sourced only from the user-supplied original 2026 map. A null means the original map did not contain this university; it does not imply the university was previously unranked. Existing Chinese names are generally preserved, with campus disambiguation where needed.",
+  "campus_review": [
+    "Rutgers main row → New Brunswick; Newark and Camden kept separate.",
+    "University of Washington → Seattle; Washington State kept separate.",
+    "University of St. Thomas - Minnesota → MN #158; TX row is separate and excluded.",
+    "Miami University → Oxford, Ohio; University of Miami → Florida.",
+    "Pennsylvania State University → University Park; Purdue → West Lafayette; Texas A&M → College Station.",
+    "Touro University → original Touro College; renamed institution."
+  ],
+  "matches": [
+    {
+      "name2027": "Massachusetts Institute of Technology (MIT)",
+      "canonical_name": "Massachusetts Institute of Technology",
+      "name_original2026": "Massachusetts Institute of Technology",
+      "match_method": "normalized_exact",
+      "rank2027": 1,
+      "rank2026": 2
+    },
+    {
+      "name2027": "Princeton University",
+      "canonical_name": "Princeton University",
+      "name_original2026": "Princeton University",
+      "match_method": "normalized_exact",
+      "rank2027": 2,
+      "rank2026": 1
+    },
+    {
+      "name2027": "Harvard University",
+      "canonical_name": "Harvard University",
+      "name_original2026": "Harvard University",
+      "match_method": "normalized_exact",
+      "rank2027": 3,
+      "rank2026": 3
+    },
+    {
+      "name2027": "Yale University",
+      "canonical_name": "Yale University",
+      "name_original2026": "Yale University",
+      "match_method": "normalized_exact",
+      "rank2027": 4,
+      "rank2026": 4
+    },
+    {
+      "name2027": "California Institute of Technology",
+      "canonical_name": "California Institute of Technology",
+      "name_original2026": "California Institute of Technology",
+      "match_method": "normalized_exact",
+      "rank2027": 5,
+      "rank2026": 11
+    },
+    {
+      "name2027": "Stanford University",
+      "canonical_name": "Stanford University",
+      "name_original2026": "Stanford University",
+      "match_method": "normalized_exact",
+      "rank2027": 5,
+      "rank2026": 4
+    },
+    {
+      "name2027": "University of Pennsylvania",
+      "canonical_name": "University of Pennsylvania",
+      "name_original2026": "University of Pennsylvania",
+      "match_method": "normalized_exact",
+      "rank2027": 7,
+      "rank2026": 7
+    },
+    {
+      "name2027": "Duke University",
+      "canonical_name": "Duke University",
+      "name_original2026": "Duke University",
+      "match_method": "normalized_exact",
+      "rank2027": 8,
+      "rank2026": 7
+    },
+    {
+      "name2027": "Johns Hopkins University (JHU)",
+      "canonical_name": "Johns Hopkins University",
+      "name_original2026": "Johns Hopkins University",
+      "match_method": "normalized_exact",
+      "rank2027": 9,
+      "rank2026": 7
+    },
+    {
+      "name2027": "Northwestern University (NU)",
+      "canonical_name": "Northwestern University",
+      "name_original2026": "Northwestern University",
+      "match_method": "normalized_exact",
+      "rank2027": 9,
+      "rank2026": 7
+    },
+    {
+      "name2027": "University of Chicago (UChicago)",
+      "canonical_name": "University of Chicago",
+      "name_original2026": "University of Chicago",
+      "match_method": "normalized_exact",
+      "rank2027": 9,
+      "rank2026": 6
+    },
+    {
+      "name2027": "Columbia University",
+      "canonical_name": "Columbia University",
+      "name_original2026": "Columbia University in the City of New York",
+      "match_method": "reviewed_alias",
+      "rank2027": 12,
+      "rank2026": 15
+    },
+    {
+      "name2027": "Dartmouth College",
+      "canonical_name": "Dartmouth College",
+      "name_original2026": "Dartmouth College",
+      "match_method": "normalized_exact",
+      "rank2027": 12,
+      "rank2026": 13
+    },
+    {
+      "name2027": "Carnegie Mellon University",
+      "canonical_name": "Carnegie Mellon University",
+      "name_original2026": "Carnegie Mellon University",
+      "match_method": "normalized_exact",
+      "rank2027": 14,
+      "rank2026": 20
+    },
+    {
+      "name2027": "Cornell University",
+      "canonical_name": "Cornell University",
+      "name_original2026": "Cornell University",
+      "match_method": "normalized_exact",
+      "rank2027": 14,
+      "rank2026": 12
+    },
+    {
+      "name2027": "Brown University",
+      "canonical_name": "Brown University",
+      "name_original2026": "Brown University",
+      "match_method": "normalized_exact",
+      "rank2027": 16,
+      "rank2026": 13
+    },
+    {
+      "name2027": "Rice University",
+      "canonical_name": "Rice University",
+      "name_original2026": "Rice University",
+      "match_method": "normalized_exact",
+      "rank2027": 16,
+      "rank2026": 17
+    },
+    {
+      "name2027": "Vanderbilt University",
+      "canonical_name": "Vanderbilt University",
+      "name_original2026": "Vanderbilt University",
+      "match_method": "normalized_exact",
+      "rank2027": 16,
+      "rank2026": 17
+    },
+    {
+      "name2027": "Washington University in St. Louis (WUSTL)",
+      "canonical_name": "Washington University in St. Louis",
+      "name_original2026": "Washington University in St Louis",
+      "match_method": "normalized_exact",
+      "rank2027": 16,
+      "rank2026": 20
+    },
+    {
+      "name2027": "University of California, Berkeley",
+      "canonical_name": "University of California, Berkeley",
+      "name_original2026": "University of California-Berkeley",
+      "match_method": "normalized_exact",
+      "rank2027": 20,
+      "rank2026": 15
+    },
+    {
+      "name2027": "University of California, Los Angeles (UCLA)",
+      "canonical_name": "University of California, Los Angeles",
+      "name_original2026": "University of California-Los Angeles",
+      "match_method": "normalized_exact",
+      "rank2027": 20,
+      "rank2026": 17
+    },
+    {
+      "name2027": "University of Notre Dame",
+      "canonical_name": "University of Notre Dame",
+      "name_original2026": "University of Notre Dame",
+      "match_method": "normalized_exact",
+      "rank2027": 20,
+      "rank2026": 20
+    },
+    {
+      "name2027": "Emory University",
+      "canonical_name": "Emory University",
+      "name_original2026": "Emory University",
+      "match_method": "normalized_exact",
+      "rank2027": 23,
+      "rank2026": 24
+    },
+    {
+      "name2027": "Georgetown University",
+      "canonical_name": "Georgetown University",
+      "name_original2026": "Georgetown University",
+      "match_method": "normalized_exact",
+      "rank2027": 23,
+      "rank2026": 24
+    },
+    {
+      "name2027": "University of Michigan (U-M)",
+      "canonical_name": "University of Michigan–Ann Arbor",
+      "name_original2026": "University of Michigan-Ann Arbor",
+      "match_method": "reviewed_alias",
+      "rank2027": 25,
+      "rank2026": 20
+    },
+    {
+      "name2027": "University of Virginia",
+      "canonical_name": "University of Virginia",
+      "name_original2026": "University of Virginia-Main Campus",
+      "match_method": "reviewed_alias",
+      "rank2027": 26,
+      "rank2026": 26
+    },
+    {
+      "name2027": "University of North Carolina at Chapel Hill",
+      "canonical_name": "University of North Carolina at Chapel Hill",
+      "name_original2026": "University of North Carolina at Chapel Hill",
+      "match_method": "normalized_exact",
+      "rank2027": 27,
+      "rank2026": 26
+    },
+    {
+      "name2027": "University of Southern California",
+      "canonical_name": "University of Southern California",
+      "name_original2026": "University of Southern California",
+      "match_method": "normalized_exact",
+      "rank2027": 27,
+      "rank2026": 28
+    },
+    {
+      "name2027": "Georgia Institute of Technology (GT)",
+      "canonical_name": "Georgia Institute of Technology",
+      "name_original2026": "Georgia Institute of Technology-Main Campus",
+      "match_method": "reviewed_alias",
+      "rank2027": 29,
+      "rank2026": 32
+    },
+    {
+      "name2027": "University of California San Diego (UCSD)",
+      "canonical_name": "University of California San Diego",
+      "name_original2026": "University of California-San Diego",
+      "match_method": "normalized_exact",
+      "rank2027": 29,
+      "rank2026": 29
+    },
+    {
+      "name2027": "Boston College (BC)",
+      "canonical_name": "Boston College",
+      "name_original2026": "Boston College",
+      "match_method": "normalized_exact",
+      "rank2027": 31,
+      "rank2026": 36
+    },
+    {
+      "name2027": "New York University (NYU)",
+      "canonical_name": "New York University",
+      "name_original2026": "New York University",
+      "match_method": "normalized_exact",
+      "rank2027": 31,
+      "rank2026": 32
+    },
+    {
+      "name2027": "Tufts University",
+      "canonical_name": "Tufts University",
+      "name_original2026": "Tufts University",
+      "match_method": "normalized_exact",
+      "rank2027": 31,
+      "rank2026": 36
+    },
+    {
+      "name2027": "Boston University (BU)",
+      "canonical_name": "Boston University",
+      "name_original2026": "Boston University",
+      "match_method": "normalized_exact",
+      "rank2027": 34,
+      "rank2026": 42
+    },
+    {
+      "name2027": "University of California, Davis",
+      "canonical_name": "University of California, Davis",
+      "name_original2026": "University of California-Davis",
+      "match_method": "normalized_exact",
+      "rank2027": 34,
+      "rank2026": 32
+    },
+    {
+      "name2027": "University of California, Irvine (UCI)",
+      "canonical_name": "University of California, Irvine",
+      "name_original2026": "University of California-Irvine",
+      "match_method": "normalized_exact",
+      "rank2027": 34,
+      "rank2026": 32
+    },
+    {
+      "name2027": "University of Florida (UF)",
+      "canonical_name": "University of Florida",
+      "name_original2026": "University of Florida",
+      "match_method": "normalized_exact",
+      "rank2027": 34,
+      "rank2026": 30
+    },
+    {
+      "name2027": "University of Illinois Urbana-Champaign (UIUC)",
+      "canonical_name": "University of Illinois Urbana-Champaign",
+      "name_original2026": "University of Illinois at Urbana-Champaign",
+      "match_method": "reviewed_alias",
+      "rank2027": 34,
+      "rank2026": 36
+    },
+    {
+      "name2027": "The University of Texas at Austin",
+      "canonical_name": "The University of Texas at Austin",
+      "name_original2026": "The University of Texas at Austin",
+      "match_method": "normalized_exact",
+      "rank2027": 34,
+      "rank2026": 30
+    },
+    {
+      "name2027": "University of Wisconsin–Madison",
+      "canonical_name": "University of Wisconsin–Madison",
+      "name_original2026": "University of Wisconsin-Madison",
+      "match_method": "normalized_exact",
+      "rank2027": 34,
+      "rank2026": 36
+    },
+    {
+      "name2027": "Wake Forest University (WFU)",
+      "canonical_name": "Wake Forest University",
+      "name_original2026": "Wake Forest University",
+      "match_method": "normalized_exact",
+      "rank2027": 34,
+      "rank2026": 51
+    },
+    {
+      "name2027": "Northeastern University",
+      "canonical_name": "Northeastern University",
+      "name_original2026": "Northeastern University",
+      "match_method": "normalized_exact",
+      "rank2027": 42,
+      "rank2026": 46
+    },
+    {
+      "name2027": "Villanova University",
+      "canonical_name": "Villanova University",
+      "name_original2026": "Villanova University",
+      "match_method": "normalized_exact",
+      "rank2027": 42,
+      "rank2026": 57
+    },
+    {
+      "name2027": "Case Western Reserve University (CWRU)",
+      "canonical_name": "Case Western Reserve University",
+      "name_original2026": "Case Western Reserve University",
+      "match_method": "normalized_exact",
+      "rank2027": 44,
+      "rank2026": 51
+    },
+    {
+      "name2027": "Lehigh University",
+      "canonical_name": "Lehigh University",
+      "name_original2026": "Lehigh University",
+      "match_method": "normalized_exact",
+      "rank2027": 44,
+      "rank2026": 46
+    },
+    {
+      "name2027": "The Ohio State University",
+      "canonical_name": "Ohio State University–Columbus",
+      "name_original2026": "Ohio State University-Main Campus",
+      "match_method": "reviewed_alias",
+      "rank2027": 44,
+      "rank2026": 41
+    },
+    {
+      "name2027": "Rutgers, The State University of New Jersey",
+      "canonical_name": "Rutgers University–New Brunswick",
+      "name_original2026": "Rutgers University-New Brunswick",
+      "match_method": "reviewed_alias",
+      "rank2027": 44,
+      "rank2026": 42
+    },
+    {
+      "name2027": "University of California, Santa Barbara (UCSB)",
+      "canonical_name": "University of California, Santa Barbara",
+      "name_original2026": "University of California-Santa Barbara",
+      "match_method": "normalized_exact",
+      "rank2027": 44,
+      "rank2026": 40
+    },
+    {
+      "name2027": "University of Maryland, College Park (UMD)",
+      "canonical_name": "University of Maryland, College Park",
+      "name_original2026": "University of Maryland-College Park",
+      "match_method": "normalized_exact",
+      "rank2027": 49,
+      "rank2026": 42
+    },
+    {
+      "name2027": "University of Rochester (URochester)",
+      "canonical_name": "University of Rochester",
+      "name_original2026": "University of Rochester",
+      "match_method": "normalized_exact",
+      "rank2027": 49,
+      "rank2026": 46
+    },
+    {
+      "name2027": "University of Washington",
+      "canonical_name": "University of Washington–Seattle",
+      "name_original2026": "University of Washington-Seattle Campus",
+      "match_method": "reviewed_alias",
+      "rank2027": 49,
+      "rank2026": 42
+    },
+    {
+      "name2027": "University of Georgia",
+      "canonical_name": "University of Georgia",
+      "name_original2026": "University of Georgia",
+      "match_method": "normalized_exact",
+      "rank2027": 52,
+      "rank2026": 46
+    },
+    {
+      "name2027": "Virginia Tech",
+      "canonical_name": "Virginia Tech",
+      "name_original2026": "Virginia Polytechnic Institute and State University",
+      "match_method": "reviewed_alias",
+      "rank2027": 52,
+      "rank2026": 51
+    },
+    {
+      "name2027": "William & Mary (W&M)",
+      "canonical_name": "William & Mary",
+      "name_original2026": "College of William and Mary",
+      "match_method": "reviewed_alias",
+      "rank2027": 52,
+      "rank2026": 51
+    },
+    {
+      "name2027": "Pennsylvania State University",
+      "canonical_name": "Pennsylvania State University–University Park",
+      "name_original2026": "The Pennsylvania State University",
+      "match_method": "normalized_exact",
+      "rank2027": 55,
+      "rank2026": 59
+    },
+    {
+      "name2027": "Purdue University West Lafayette",
+      "canonical_name": "Purdue University–West Lafayette",
+      "name_original2026": "Purdue University-Main Campus",
+      "match_method": "reviewed_alias",
+      "rank2027": 55,
+      "rank2026": 46
+    },
+    {
+      "name2027": "Santa Clara University",
+      "canonical_name": "Santa Clara University",
+      "name_original2026": "Santa Clara University",
+      "match_method": "normalized_exact",
+      "rank2027": 55,
+      "rank2026": 59
+    },
+    {
+      "name2027": "University of Miami",
+      "canonical_name": "University of Miami",
+      "name_original2026": "University of Miami",
+      "match_method": "normalized_exact",
+      "rank2027": 55,
+      "rank2026": 64
+    },
+    {
+      "name2027": "Brandeis University",
+      "canonical_name": "Brandeis University",
+      "name_original2026": "Brandeis University",
+      "match_method": "normalized_exact",
+      "rank2027": 59,
+      "rank2026": 69
+    },
+    {
+      "name2027": "Florida State University",
+      "canonical_name": "Florida State University",
+      "name_original2026": "Florida State University",
+      "match_method": "normalized_exact",
+      "rank2027": 59,
+      "rank2026": 51
+    },
+    {
+      "name2027": "George Washington University (GW)",
+      "canonical_name": "George Washington University",
+      "name_original2026": "George Washington University",
+      "match_method": "normalized_exact",
+      "rank2027": 59,
+      "rank2026": 59
+    },
+    {
+      "name2027": "Stevens Institute of Technology",
+      "canonical_name": "Stevens Institute of Technology",
+      "name_original2026": "Stevens Institute of Technology",
+      "match_method": "normalized_exact",
+      "rank2027": 59,
+      "rank2026": 80
+    },
+    {
+      "name2027": "Stony Brook University (SBU)",
+      "canonical_name": "Stony Brook University",
+      "name_original2026": "Stony Brook University",
+      "match_method": "normalized_exact",
+      "rank2027": 59,
+      "rank2026": 59
+    },
+    {
+      "name2027": "Texas A&M University (TAMU)",
+      "canonical_name": "Texas A&M University–College Station",
+      "name_original2026": "Texas A & M University-College Station",
+      "match_method": "reviewed_alias",
+      "rank2027": 59,
+      "rank2026": 51
+    },
+    {
+      "name2027": "Tulane University",
+      "canonical_name": "Tulane University",
+      "name_original2026": "Tulane University of Louisiana",
+      "match_method": "reviewed_alias",
+      "rank2027": 59,
+      "rank2026": 69
+    },
+    {
+      "name2027": "University of Massachusetts Amherst",
+      "canonical_name": "University of Massachusetts Amherst",
+      "name_original2026": "University of Massachusetts-Amherst",
+      "match_method": "normalized_exact",
+      "rank2027": 59,
+      "rank2026": 64
+    },
+    {
+      "name2027": "University of Minnesota",
+      "canonical_name": "University of Minnesota–Twin Cities",
+      "name_original2026": "University of Minnesota-Twin Cities",
+      "match_method": "reviewed_alias",
+      "rank2027": 59,
+      "rank2026": 59
+    },
+    {
+      "name2027": "University of Pittsburgh",
+      "canonical_name": "University of Pittsburgh–Pittsburgh Campus",
+      "name_original2026": "University of Pittsburgh-Pittsburgh Campus",
+      "match_method": "reviewed_alias",
+      "rank2027": 59,
+      "rank2026": 69
+    },
+    {
+      "name2027": "Michigan State University",
+      "canonical_name": "Michigan State University",
+      "name_original2026": "Michigan State University",
+      "match_method": "normalized_exact",
+      "rank2027": 69,
+      "rank2026": 64
+    },
+    {
+      "name2027": "Rensselaer Polytechnic Institute (RPI)",
+      "canonical_name": "Rensselaer Polytechnic Institute",
+      "name_original2026": "Rensselaer Polytechnic Institute",
+      "match_method": "normalized_exact",
+      "rank2027": 69,
+      "rank2026": 64
+    },
+    {
+      "name2027": "University of California, Merced",
+      "canonical_name": "University of California, Merced",
+      "name_original2026": "University of California-Merced",
+      "match_method": "normalized_exact",
+      "rank2027": 69,
+      "rank2026": 57
+    },
+    {
+      "name2027": "Syracuse University (SU)",
+      "canonical_name": "Syracuse University",
+      "name_original2026": "Syracuse University",
+      "match_method": "normalized_exact",
+      "rank2027": 72,
+      "rank2026": 75
+    },
+    {
+      "name2027": "Binghamton University",
+      "canonical_name": "Binghamton University",
+      "name_original2026": "Binghamton University",
+      "match_method": "normalized_exact",
+      "rank2027": 73,
+      "rank2026": 73
+    },
+    {
+      "name2027": "Howard University",
+      "canonical_name": "Howard University",
+      "name_original2026": "Howard University",
+      "match_method": "normalized_exact",
+      "rank2027": 73,
+      "rank2026": 88
+    },
+    {
+      "name2027": "Indiana University Bloomington (IU)",
+      "canonical_name": "Indiana University Bloomington",
+      "name_original2026": "Indiana University-Bloomington",
+      "match_method": "normalized_exact",
+      "rank2027": 73,
+      "rank2026": 73
+    },
+    {
+      "name2027": "North Carolina State University (NCSU)",
+      "canonical_name": "North Carolina State University",
+      "name_original2026": "North Carolina State University at Raleigh",
+      "match_method": "reviewed_alias",
+      "rank2027": 73,
+      "rank2026": 64
+    },
+    {
+      "name2027": "Rutgers University–Newark",
+      "canonical_name": "Rutgers University–Newark",
+      "name_original2026": "Rutgers University-Newark",
+      "match_method": "normalized_exact",
+      "rank2027": 73,
+      "rank2026": 75
+    },
+    {
+      "name2027": "University of Connecticut (UConn)",
+      "canonical_name": "University of Connecticut",
+      "name_original2026": "University of Connecticut",
+      "match_method": "normalized_exact",
+      "rank2027": 73,
+      "rank2026": 69
+    },
+    {
+      "name2027": "Worcester Polytechnic Institute (WPI)",
+      "canonical_name": "Worcester Polytechnic Institute",
+      "name_original2026": "Worcester Polytechnic Institute",
+      "match_method": "normalized_exact",
+      "rank2027": 73,
+      "rank2026": 84
+    },
+    {
+      "name2027": "Clemson University",
+      "canonical_name": "Clemson University",
+      "name_original2026": "Clemson University",
+      "match_method": "normalized_exact",
+      "rank2027": 80,
+      "rank2026": 75
+    },
+    {
+      "name2027": "Colorado School of Mines",
+      "canonical_name": "Colorado School of Mines",
+      "name_original2026": "Colorado School of Mines",
+      "match_method": "normalized_exact",
+      "rank2027": 80,
+      "rank2026": 80
+    },
+    {
+      "name2027": "Drexel University",
+      "canonical_name": "Drexel University",
+      "name_original2026": "Drexel University",
+      "match_method": "normalized_exact",
+      "rank2027": 80,
+      "rank2026": 80
+    },
+    {
+      "name2027": "Pepperdine University",
+      "canonical_name": "Pepperdine University",
+      "name_original2026": "Pepperdine University",
+      "match_method": "normalized_exact",
+      "rank2027": 80,
+      "rank2026": 84
+    },
+    {
+      "name2027": "University of California, Riverside",
+      "canonical_name": "University of California, Riverside",
+      "name_original2026": "University of California-Riverside",
+      "match_method": "normalized_exact",
+      "rank2027": 80,
+      "rank2026": 75
+    },
+    {
+      "name2027": "Fordham University",
+      "canonical_name": "Fordham University",
+      "name_original2026": "Fordham University",
+      "match_method": "normalized_exact",
+      "rank2027": 85,
+      "rank2026": 97
+    },
+    {
+      "name2027": "New Jersey Institute of Technology (NJIT)",
+      "canonical_name": "New Jersey Institute of Technology",
+      "name_original2026": "New Jersey Institute of Technology",
+      "match_method": "normalized_exact",
+      "rank2027": 85,
+      "rank2026": 80
+    },
+    {
+      "name2027": "Southern Methodist University (SMU)",
+      "canonical_name": "Southern Methodist University",
+      "name_original2026": "Southern Methodist University",
+      "match_method": "normalized_exact",
+      "rank2027": 85,
+      "rank2026": 88
+    },
+    {
+      "name2027": "University at Buffalo, State University of New York",
+      "canonical_name": "University at Buffalo, State University of New York",
+      "name_original2026": "University at Buffalo",
+      "match_method": "reviewed_alias",
+      "rank2027": 85,
+      "rank2026": 75
+    },
+    {
+      "name2027": "University of Delaware (UD)",
+      "canonical_name": "University of Delaware",
+      "name_original2026": "University of Delaware",
+      "match_method": "normalized_exact",
+      "rank2027": 85,
+      "rank2026": 88
+    },
+    {
+      "name2027": "Baylor University",
+      "canonical_name": "Baylor University",
+      "name_original2026": "Baylor University",
+      "match_method": "normalized_exact",
+      "rank2027": 90,
+      "rank2026": 88
+    },
+    {
+      "name2027": "Gonzaga University (GU)",
+      "canonical_name": "Gonzaga University",
+      "name_original2026": "Gonzaga University",
+      "match_method": "normalized_exact",
+      "rank2027": 90,
+      "rank2026": 102
+    },
+    {
+      "name2027": "Marquette University",
+      "canonical_name": "Marquette University",
+      "name_original2026": "Marquette University",
+      "match_method": "normalized_exact",
+      "rank2027": 90,
+      "rank2026": 88
+    },
+    {
+      "name2027": "Texas Christian University (TCU)",
+      "canonical_name": "Texas Christian University",
+      "name_original2026": "Texas Christian University",
+      "match_method": "normalized_exact",
+      "rank2027": 90,
+      "rank2026": 97
+    },
+    {
+      "name2027": "Yeshiva University",
+      "canonical_name": "Yeshiva University",
+      "name_original2026": "Yeshiva University",
+      "match_method": "normalized_exact",
+      "rank2027": 90,
+      "rank2026": 84
+    },
+    {
+      "name2027": "American University",
+      "canonical_name": "American University",
+      "name_original2026": "American University",
+      "match_method": "normalized_exact",
+      "rank2027": 95,
+      "rank2026": 88
+    },
+    {
+      "name2027": "Rochester Institute of Technology (RIT)",
+      "canonical_name": "Rochester Institute of Technology",
+      "name_original2026": "Rochester Institute of Technology",
+      "match_method": "normalized_exact",
+      "rank2027": 95,
+      "rank2026": 88
+    },
+    {
+      "name2027": "Rutgers University–Camden",
+      "canonical_name": "Rutgers University–Camden",
+      "name_original2026": "Rutgers University--Camden",
+      "match_method": "normalized_exact",
+      "rank2027": 95,
+      "rank2026": 97
+    },
+    {
+      "name2027": "University of Illinois Chicago (UIC)",
+      "canonical_name": "University of Illinois Chicago",
+      "name_original2026": "University of Illinois at Chicago",
+      "match_method": "reviewed_alias",
+      "rank2027": 95,
+      "rank2026": 84
+    },
+    {
+      "name2027": "University of Missouri (MU)",
+      "canonical_name": "University of Missouri–Columbia",
+      "name_original2026": "University of Missouri-Columbia",
+      "match_method": "reviewed_alias",
+      "rank2027": 95,
+      "rank2026": 102
+    },
+    {
+      "name2027": "Auburn University",
+      "canonical_name": "Auburn University",
+      "name_original2026": "Auburn University",
+      "match_method": "normalized_exact",
+      "rank2027": 100,
+      "rank2026": 102
+    },
+    {
+      "name2027": "Chapman University",
+      "canonical_name": "Chapman University",
+      "name_original2026": "Chapman University",
+      "match_method": "normalized_exact",
+      "rank2027": 100,
+      "rank2026": 110
+    },
+    {
+      "name2027": "Creighton University",
+      "canonical_name": "Creighton University",
+      "name_original2026": "Creighton University",
+      "match_method": "normalized_exact",
+      "rank2027": 100,
+      "rank2026": 117
+    },
+    {
+      "name2027": "Elon University",
+      "canonical_name": "Elon University",
+      "name_original2026": "Elon University",
+      "match_method": "normalized_exact",
+      "rank2027": 100,
+      "rank2026": 117
+    },
+    {
+      "name2027": "Florida International University (FIU)",
+      "canonical_name": "Florida International University",
+      "name_original2026": "Florida International University",
+      "match_method": "normalized_exact",
+      "rank2027": 100,
+      "rank2026": 97
+    },
+    {
+      "name2027": "Saint Louis University (SLU)",
+      "canonical_name": "Saint Louis University",
+      "name_original2026": "Saint Louis University",
+      "match_method": "normalized_exact",
+      "rank2027": 100,
+      "rank2026": 102
+    },
+    {
+      "name2027": "University of Iowa",
+      "canonical_name": "University of Iowa",
+      "name_original2026": "University of Iowa",
+      "match_method": "normalized_exact",
+      "rank2027": 100,
+      "rank2026": 102
+    },
+    {
+      "name2027": "University of San Diego",
+      "canonical_name": "University of San Diego",
+      "name_original2026": "University of San Diego",
+      "match_method": "normalized_exact",
+      "rank2027": 100,
+      "rank2026": 110
+    },
+    {
+      "name2027": "University of South Florida",
+      "canonical_name": "University of South Florida",
+      "name_original2026": "University of South Florida-Main Campus",
+      "match_method": "reviewed_alias",
+      "rank2027": 100,
+      "rank2026": 88
+    },
+    {
+      "name2027": "Fairfield University",
+      "canonical_name": "Fairfield University",
+      "name_original2026": "Fairfield University",
+      "match_method": "normalized_exact",
+      "rank2027": 109,
+      "rank2026": 139
+    },
+    {
+      "name2027": "Loyola Marymount University",
+      "canonical_name": "Loyola Marymount University",
+      "name_original2026": "Loyola Marymount University",
+      "match_method": "normalized_exact",
+      "rank2027": 109,
+      "rank2026": 102
+    },
+    {
+      "name2027": "Temple University",
+      "canonical_name": "Temple University",
+      "name_original2026": "Temple University",
+      "match_method": "normalized_exact",
+      "rank2027": 109,
+      "rank2026": 102
+    },
+    {
+      "name2027": "University of California, Santa Cruz",
+      "canonical_name": "University of California, Santa Cruz",
+      "name_original2026": "University of California-Santa Cruz",
+      "match_method": "normalized_exact",
+      "rank2027": 109,
+      "rank2026": 88
+    },
+    {
+      "name2027": "University of Colorado Boulder",
+      "canonical_name": "University of Colorado Boulder",
+      "name_original2026": "University of Colorado Boulder",
+      "match_method": "normalized_exact",
+      "rank2027": 109,
+      "rank2026": 97
+    },
+    {
+      "name2027": "University of New Hampshire (UNH)",
+      "canonical_name": "University of New Hampshire",
+      "name_original2026": "University of New Hampshire-Main Campus",
+      "match_method": "reviewed_alias",
+      "rank2027": 109,
+      "rank2026": 117
+    },
+    {
+      "name2027": "University of Tennessee at Knoxville",
+      "canonical_name": "University of Tennessee at Knoxville",
+      "name_original2026": "The University of Tennessee-Knoxville",
+      "match_method": "reviewed_alias",
+      "rank2027": 109,
+      "rank2026": 102
+    },
+    {
+      "name2027": "Brigham Young University (BYU)",
+      "canonical_name": "Brigham Young University–Provo",
+      "name_original2026": "Brigham Young University-Provo",
+      "match_method": "reviewed_alias",
+      "rank2027": 116,
+      "rank2026": 110
+    },
+    {
+      "name2027": "Iowa State University",
+      "canonical_name": "Iowa State University",
+      "name_original2026": "Iowa State University",
+      "match_method": "normalized_exact",
+      "rank2027": 116,
+      "rank2026": 117
+    },
+    {
+      "name2027": "University of Oklahoma",
+      "canonical_name": "University of Oklahoma–Norman",
+      "name_original2026": "University of Oklahoma-Norman Campus",
+      "match_method": "reviewed_alias",
+      "rank2027": 116,
+      "rank2026": 110
+    },
+    {
+      "name2027": "University of Oregon",
+      "canonical_name": "University of Oregon",
+      "name_original2026": "University of Oregon",
+      "match_method": "normalized_exact",
+      "rank2027": 116,
+      "rank2026": 110
+    },
+    {
+      "name2027": "University of San Francisco",
+      "canonical_name": "University of San Francisco",
+      "name_original2026": "University of San Francisco",
+      "match_method": "normalized_exact",
+      "rank2027": 116,
+      "rank2026": 110
+    },
+    {
+      "name2027": "Arizona State University (ASU)",
+      "canonical_name": "Arizona State University–Tempe",
+      "name_original2026": "Arizona State University-Tempe",
+      "match_method": "reviewed_alias",
+      "rank2027": 121,
+      "rank2026": 117
+    },
+    {
+      "name2027": "George Mason University",
+      "canonical_name": "George Mason University",
+      "name_original2026": "George Mason University",
+      "match_method": "normalized_exact",
+      "rank2027": 121,
+      "rank2026": 117
+    },
+    {
+      "name2027": "Illinois Institute of Technology",
+      "canonical_name": "Illinois Institute of Technology",
+      "name_original2026": "Illinois Institute of Technology",
+      "match_method": "normalized_exact",
+      "rank2027": 121,
+      "rank2026": 117
+    },
+    {
+      "name2027": "Loyola University Chicago (LUC)",
+      "canonical_name": "Loyola University Chicago",
+      "name_original2026": "Loyola University Chicago",
+      "match_method": "normalized_exact",
+      "rank2027": 121,
+      "rank2026": 132
+    },
+    {
+      "name2027": "University at Albany, State University of New York",
+      "canonical_name": "University at Albany, State University of New York",
+      "name_original2026": "SUNY at Albany",
+      "match_method": "reviewed_alias",
+      "rank2027": 121,
+      "rank2026": 127
+    },
+    {
+      "name2027": "University of Arizona",
+      "canonical_name": "University of Arizona",
+      "name_original2026": "University of Arizona",
+      "match_method": "normalized_exact",
+      "rank2027": 121,
+      "rank2026": 127
+    },
+    {
+      "name2027": "University of Central Florida (UCF)",
+      "canonical_name": "University of Central Florida",
+      "name_original2026": "University of Central Florida",
+      "match_method": "normalized_exact",
+      "rank2027": 121,
+      "rank2026": 117
+    },
+    {
+      "name2027": "University of Dayton",
+      "canonical_name": "University of Dayton",
+      "name_original2026": "University of Dayton",
+      "match_method": "normalized_exact",
+      "rank2027": 121,
+      "rank2026": 143
+    },
+    {
+      "name2027": "University of Denver",
+      "canonical_name": "University of Denver",
+      "name_original2026": "University of Denver",
+      "match_method": "normalized_exact",
+      "rank2027": 121,
+      "rank2026": 117
+    },
+    {
+      "name2027": "University of South Carolina",
+      "canonical_name": "University of South Carolina–Columbia",
+      "name_original2026": "University of South Carolina-Columbia",
+      "match_method": "reviewed_alias",
+      "rank2027": 121,
+      "rank2026": 127
+    },
+    {
+      "name2027": "The University of Texas at Dallas",
+      "canonical_name": "The University of Texas at Dallas",
+      "name_original2026": "The University of Texas at Dallas",
+      "match_method": "normalized_exact",
+      "rank2027": 121,
+      "rank2026": 110
+    },
+    {
+      "name2027": "University of the Pacific",
+      "canonical_name": "University of the Pacific",
+      "name_original2026": "University of the Pacific",
+      "match_method": "normalized_exact",
+      "rank2027": 121,
+      "rank2026": 139
+    },
+    {
+      "name2027": "Clark University",
+      "canonical_name": "Clark University",
+      "name_original2026": "Clark University",
+      "match_method": "normalized_exact",
+      "rank2027": 133,
+      "rank2026": 132
+    },
+    {
+      "name2027": "Miami University",
+      "canonical_name": "Miami University–Oxford",
+      "name_original2026": "Miami University-Oxford",
+      "match_method": "reviewed_alias",
+      "rank2027": 133,
+      "rank2026": 143
+    },
+    {
+      "name2027": "Thomas Jefferson University",
+      "canonical_name": "Thomas Jefferson University",
+      "name_original2026": "Thomas Jefferson University",
+      "match_method": "normalized_exact",
+      "rank2027": 133,
+      "rank2026": 132
+    },
+    {
+      "name2027": "University of Vermont (UVM)",
+      "canonical_name": "University of Vermont",
+      "name_original2026": "University of Vermont",
+      "match_method": "normalized_exact",
+      "rank2027": 133,
+      "rank2026": 132
+    },
+    {
+      "name2027": "California State University, Long Beach (CSULB)",
+      "canonical_name": "California State University, Long Beach",
+      "name_original2026": "California State University--Long Beach",
+      "match_method": "normalized_exact",
+      "rank2027": 137,
+      "rank2026": 127
+    },
+    {
+      "name2027": "Clarkson University",
+      "canonical_name": "Clarkson University",
+      "name_original2026": "Clarkson University",
+      "match_method": "normalized_exact",
+      "rank2027": 137,
+      "rank2026": 143
+    },
+    {
+      "name2027": "James Madison University (JMU)",
+      "canonical_name": "James Madison University",
+      "name_original2026": "James Madison University",
+      "match_method": "normalized_exact",
+      "rank2027": 137,
+      "rank2026": 151
+    },
+    {
+      "name2027": "Saint Joseph's University",
+      "canonical_name": "Saint Joseph's University",
+      "name_original2026": null,
+      "match_method": "not_in_original_map",
+      "rank2027": 137,
+      "rank2026": null
+    },
+    {
+      "name2027": "San Diego State University (SDSU)",
+      "canonical_name": "San Diego State University",
+      "name_original2026": "San Diego State University",
+      "match_method": "normalized_exact",
+      "rank2027": 137,
+      "rank2026": 117
+    },
+    {
+      "name2027": "San Jose State University (SJSU)",
+      "canonical_name": "San Jose State University",
+      "name_original2026": null,
+      "match_method": "not_in_original_map",
+      "rank2027": 137,
+      "rank2026": null
+    },
+    {
+      "name2027": "St. John's University",
+      "canonical_name": "St. John's University",
+      "name_original2026": "St John's University (NY)",
+      "match_method": "normalized_exact",
+      "rank2027": 137,
+      "rank2026": 151
+    },
+    {
+      "name2027": "University of Alabama at Birmingham (UAB)",
+      "canonical_name": "University of Alabama at Birmingham",
+      "name_original2026": "University of Alabama at Birmingham",
+      "match_method": "normalized_exact",
+      "rank2027": 137,
+      "rank2026": 132
+    },
+    {
+      "name2027": "University of Houston",
+      "canonical_name": "University of Houston",
+      "name_original2026": "University of Houston",
+      "match_method": "normalized_exact",
+      "rank2027": 137,
+      "rank2026": 132
+    },
+    {
+      "name2027": "University of Maryland, Baltimore County (UMBC)",
+      "canonical_name": "University of Maryland, Baltimore County",
+      "name_original2026": "University of Maryland-Baltimore County",
+      "match_method": "normalized_exact",
+      "rank2027": 137,
+      "rank2026": 127
+    },
+    {
+      "name2027": "University of Scranton",
+      "canonical_name": "University of Scranton",
+      "name_original2026": null,
+      "match_method": "not_in_original_map",
+      "rank2027": 137,
+      "rank2026": null
+    },
+    {
+      "name2027": "California State University Los Angeles (CSULA)",
+      "canonical_name": "California State University Los Angeles",
+      "name_original2026": null,
+      "match_method": "not_in_original_map",
+      "rank2027": 148,
+      "rank2026": null
+    },
+    {
+      "name2027": "Catholic University of America (CUA)",
+      "canonical_name": "Catholic University of America",
+      "name_original2026": "Catholic University of America",
+      "match_method": "normalized_exact",
+      "rank2027": 148,
+      "rank2026": 169
+    },
+    {
+      "name2027": "Mercer University",
+      "canonical_name": "Mercer University",
+      "name_original2026": "Mercer University",
+      "match_method": "normalized_exact",
+      "rank2027": 148,
+      "rank2026": 169
+    },
+    {
+      "name2027": "University of Kansas (KU)",
+      "canonical_name": "University of Kansas",
+      "name_original2026": "University of Kansas",
+      "match_method": "normalized_exact",
+      "rank2027": 148,
+      "rank2026": 143
+    },
+    {
+      "name2027": "University of Kentucky",
+      "canonical_name": "University of Kentucky",
+      "name_original2026": "University of Kentucky",
+      "match_method": "normalized_exact",
+      "rank2027": 148,
+      "rank2026": 143
+    },
+    {
+      "name2027": "University of Massachusetts Lowell",
+      "canonical_name": "University of Massachusetts Lowell",
+      "name_original2026": "University of Massachusetts-Lowell",
+      "match_method": "normalized_exact",
+      "rank2027": 148,
+      "rank2026": 151
+    },
+    {
+      "name2027": "University of Rhode Island (URI)",
+      "canonical_name": "University of Rhode Island",
+      "name_original2026": "University of Rhode Island",
+      "match_method": "normalized_exact",
+      "rank2027": 148,
+      "rank2026": 151
+    },
+    {
+      "name2027": "University of Tulsa (TU)",
+      "canonical_name": "University of Tulsa",
+      "name_original2026": "University of Tulsa",
+      "match_method": "normalized_exact",
+      "rank2027": 148,
+      "rank2026": 158
+    },
+    {
+      "name2027": "California State University, Fullerton",
+      "canonical_name": "California State University, Fullerton",
+      "name_original2026": "California State University-Fullerton",
+      "match_method": "normalized_exact",
+      "rank2027": 156,
+      "rank2026": 139
+    },
+    {
+      "name2027": "City College of New York (CCNY)",
+      "canonical_name": "CUNY City College of New York",
+      "name_original2026": "The City College of New York - CUNY",
+      "match_method": "reviewed_alias",
+      "rank2027": 156,
+      "rank2026": 132
+    },
+    {
+      "name2027": "Duquesne University",
+      "canonical_name": "Duquesne University",
+      "name_original2026": "Duquesne University",
+      "match_method": "normalized_exact",
+      "rank2027": 156,
+      "rank2026": 169
+    },
+    {
+      "name2027": "Florida Agricultural and Mechanical University (FAMU)",
+      "canonical_name": "Florida Agricultural and Mechanical University",
+      "name_original2026": "Florida A&M University",
+      "match_method": "reviewed_alias",
+      "rank2027": 156,
+      "rank2026": 169
+    },
+    {
+      "name2027": "Kansas State University",
+      "canonical_name": "Kansas State University",
+      "name_original2026": "Kansas State University",
+      "match_method": "normalized_exact",
+      "rank2027": 156,
+      "rank2026": 158
+    },
+    {
+      "name2027": "Montclair State University",
+      "canonical_name": "Montclair State University",
+      "name_original2026": "Montclair State University",
+      "match_method": "normalized_exact",
+      "rank2027": 156,
+      "rank2026": 158
+    },
+    {
+      "name2027": "Oregon State University (OSU)",
+      "canonical_name": "Oregon State University",
+      "name_original2026": "Oregon State University",
+      "match_method": "normalized_exact",
+      "rank2027": 156,
+      "rank2026": 143
+    },
+    {
+      "name2027": "Quinnipiac University",
+      "canonical_name": "Quinnipiac University",
+      "name_original2026": "Quinnipiac University",
+      "match_method": "normalized_exact",
+      "rank2027": 156,
+      "rank2026": 179
+    },
+    {
+      "name2027": "Seton Hall University",
+      "canonical_name": "Seton Hall University",
+      "name_original2026": "Seton Hall University",
+      "match_method": "normalized_exact",
+      "rank2027": 156,
+      "rank2026": 158
+    },
+    {
+      "name2027": "University of Alabama",
+      "canonical_name": "University of Alabama",
+      "name_original2026": "The University of Alabama",
+      "match_method": "normalized_exact",
+      "rank2027": 156,
+      "rank2026": 169
+    },
+    {
+      "name2027": "University of Portland (UP)",
+      "canonical_name": "University of Portland",
+      "name_original2026": null,
+      "match_method": "not_in_original_map",
+      "rank2027": 156,
+      "rank2026": null
+    },
+    {
+      "name2027": "University of St. Thomas - Minnesota",
+      "canonical_name": "University of St. Thomas–Minnesota",
+      "name_original2026": "University of St Thomas (MN)",
+      "match_method": "reviewed_alias",
+      "rank2027": 156,
+      "rank2026": 158
+    },
+    {
+      "name2027": "Virginia Commonwealth University (VCU)",
+      "canonical_name": "Virginia Commonwealth University",
+      "name_original2026": "Virginia Commonwealth University",
+      "match_method": "normalized_exact",
+      "rank2027": 156,
+      "rank2026": 139
+    },
+    {
+      "name2027": "Bradley University",
+      "canonical_name": "Bradley University",
+      "name_original2026": "Bradley University",
+      "match_method": "normalized_exact",
+      "rank2027": 169,
+      "rank2026": 183
+    },
+    {
+      "name2027": "Butler University",
+      "canonical_name": "Butler University",
+      "name_original2026": null,
+      "match_method": "not_in_original_map",
+      "rank2027": 169,
+      "rank2026": null
+    },
+    {
+      "name2027": "Colorado State University",
+      "canonical_name": "Colorado State University–Fort Collins",
+      "name_original2026": "Colorado State University-Fort Collins",
+      "match_method": "reviewed_alias",
+      "rank2027": 169,
+      "rank2026": 151
+    },
+    {
+      "name2027": "DePaul University",
+      "canonical_name": "DePaul University",
+      "name_original2026": "DePaul University",
+      "match_method": "normalized_exact",
+      "rank2027": 169,
+      "rank2026": 169
+    },
+    {
+      "name2027": "Michigan Technological University",
+      "canonical_name": "Michigan Technological University",
+      "name_original2026": "Michigan Technological University",
+      "match_method": "normalized_exact",
+      "rank2027": 169,
+      "rank2026": 158
+    },
+    {
+      "name2027": "Monmouth University",
+      "canonical_name": "Monmouth University",
+      "name_original2026": null,
+      "match_method": "not_in_original_map",
+      "rank2027": 169,
+      "rank2026": null
+    },
+    {
+      "name2027": "Simmons University",
+      "canonical_name": "Simmons University",
+      "name_original2026": "Simmons University",
+      "match_method": "normalized_exact",
+      "rank2027": 169,
+      "rank2026": 183
+    },
+    {
+      "name2027": "Touro University",
+      "canonical_name": "Touro University",
+      "name_original2026": "Touro College",
+      "match_method": "reviewed_alias",
+      "rank2027": 169,
+      "rank2026": 143
+    },
+    {
+      "name2027": "University of Nebraska–Lincoln",
+      "canonical_name": "University of Nebraska–Lincoln",
+      "name_original2026": "University of Nebraska-Lincoln",
+      "match_method": "normalized_exact",
+      "rank2027": 169,
+      "rank2026": 158
+    },
+    {
+      "name2027": "University of North Carolina at Charlotte",
+      "canonical_name": "University of North Carolina at Charlotte",
+      "name_original2026": "University of North Carolina at Charlotte",
+      "match_method": "normalized_exact",
+      "rank2027": 169,
+      "rank2026": 143
+    },
+    {
+      "name2027": "Hunter College",
+      "canonical_name": "CUNY Hunter College",
+      "name_original2026": null,
+      "match_method": "not_in_original_map",
+      "rank2027": 179,
+      "rank2026": null
+    },
+    {
+      "name2027": "Gallaudet University",
+      "canonical_name": "Gallaudet University",
+      "name_original2026": "Gallaudet University",
+      "match_method": "normalized_exact",
+      "rank2027": 179,
+      "rank2026": 198
+    },
+    {
+      "name2027": "Seattle University",
+      "canonical_name": "Seattle University",
+      "name_original2026": "Seattle University",
+      "match_method": "normalized_exact",
+      "rank2027": 179,
+      "rank2026": 151
+    },
+    {
+      "name2027": "University of Cincinnati",
+      "canonical_name": "University of Cincinnati",
+      "name_original2026": "University of Cincinnati-Main Campus",
+      "match_method": "reviewed_alias",
+      "rank2027": 179,
+      "rank2026": 158
+    },
+    {
+      "name2027": "University of Louisville",
+      "canonical_name": "University of Louisville",
+      "name_original2026": "University of Louisville",
+      "match_method": "normalized_exact",
+      "rank2027": 179,
+      "rank2026": 158
+    },
+    {
+      "name2027": "University of Mississippi",
+      "canonical_name": "University of Mississippi",
+      "name_original2026": "University of Mississippi",
+      "match_method": "normalized_exact",
+      "rank2027": 179,
+      "rank2026": 169
+    },
+    {
+      "name2027": "University of Utah",
+      "canonical_name": "University of Utah",
+      "name_original2026": "University of Utah",
+      "match_method": "normalized_exact",
+      "rank2027": 179,
+      "rank2026": 151
+    },
+    {
+      "name2027": "California Lutheran University",
+      "canonical_name": "California Lutheran University",
+      "name_original2026": null,
+      "match_method": "not_in_original_map",
+      "rank2027": 186,
+      "rank2026": null
+    },
+    {
+      "name2027": "Texas Tech University",
+      "canonical_name": "Texas Tech University",
+      "name_original2026": "Texas Tech University",
+      "match_method": "normalized_exact",
+      "rank2027": 186,
+      "rank2026": 198
+    },
+    {
+      "name2027": "University of Detroit Mercy",
+      "canonical_name": "University of Detroit Mercy",
+      "name_original2026": "University of Detroit Mercy",
+      "match_method": "normalized_exact",
+      "rank2027": 186,
+      "rank2026": 183
+    },
+    {
+      "name2027": "University of Hawaiʻi at Mānoa (UH)",
+      "canonical_name": "University of Hawaiʻi at Mānoa",
+      "name_original2026": "University of Hawaii at Manoa",
+      "match_method": "normalized_exact",
+      "rank2027": 186,
+      "rank2026": 169
+    },
+    {
+      "name2027": "Wayne State University",
+      "canonical_name": "Wayne State University",
+      "name_original2026": "Wayne State University",
+      "match_method": "normalized_exact",
+      "rank2027": 186,
+      "rank2026": 179
+    },
+    {
+      "name2027": "Adelphi University",
+      "canonical_name": "Adelphi University",
+      "name_original2026": "Adelphi University",
+      "match_method": "normalized_exact",
+      "rank2027": 191,
+      "rank2026": 198
+    },
+    {
+      "name2027": "Drake University",
+      "canonical_name": "Drake University",
+      "name_original2026": "Drake University",
+      "match_method": "normalized_exact",
+      "rank2027": 191,
+      "rank2026": 183
+    },
+    {
+      "name2027": "Florida Atlantic University (FAU)",
+      "canonical_name": "Florida Atlantic University",
+      "name_original2026": "Florida Atlantic University",
+      "match_method": "normalized_exact",
+      "rank2027": 191,
+      "rank2026": 183
+    },
+    {
+      "name2027": "Georgia State University",
+      "canonical_name": "Georgia State University",
+      "name_original2026": "Georgia State University",
+      "match_method": "normalized_exact",
+      "rank2027": 191,
+      "rank2026": 198
+    },
+    {
+      "name2027": "Hofstra University",
+      "canonical_name": "Hofstra University",
+      "name_original2026": "Hofstra University",
+      "match_method": "normalized_exact",
+      "rank2027": 191,
+      "rank2026": 183
+    },
+    {
+      "name2027": "Missouri University of Science and Technology",
+      "canonical_name": "Missouri University of Science and Technology",
+      "name_original2026": "Missouri University of Science and Technology",
+      "match_method": "normalized_exact",
+      "rank2027": 191,
+      "rank2026": 192
+    },
+    {
+      "name2027": "Oklahoma State University",
+      "canonical_name": "Oklahoma State University",
+      "name_original2026": "Oklahoma State University-Main Campus",
+      "match_method": "reviewed_alias",
+      "rank2027": 191,
+      "rank2026": 198
+    },
+    {
+      "name2027": "Rowan University",
+      "canonical_name": "Rowan University",
+      "name_original2026": "Rowan University",
+      "match_method": "normalized_exact",
+      "rank2027": 191,
+      "rank2026": 169
+    },
+    {
+      "name2027": "Samford University",
+      "canonical_name": "Samford University",
+      "name_original2026": "Samford University",
+      "match_method": "normalized_exact",
+      "rank2027": 191,
+      "rank2026": 179
+    },
+    {
+      "name2027": "University of Arkansas at Fayetteville",
+      "canonical_name": "University of Arkansas at Fayetteville",
+      "name_original2026": "University of Arkansas",
+      "match_method": "reviewed_alias",
+      "rank2027": 191,
+      "rank2026": 183
+    },
+    {
+      "name2027": "Washington State University",
+      "canonical_name": "Washington State University",
+      "name_original2026": "Washington State University",
+      "match_method": "normalized_exact",
+      "rank2027": 191,
+      "rank2026": 192
+    }
+  ]
+}
