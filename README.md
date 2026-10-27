@@ -46,7 +46,7 @@ The build uses bundled data and requires no API key or network access. It valida
 | `build_map.py` | Rebuilds the KML, JSON, and GeoJSON outputs |
 | `manifest.json` | Map links, metadata, counts, and display fields |
 
-To make your own Google My Maps copy, import `layers/TOP10.kml` into a new map, then add a layer for each remaining KML in `layers/`. KML folders may not become separate switchable layers in every application. Access to the hosted map depends on its Google My Maps sharing settings; the KML files in this repository can be downloaded independently.
+To make your own Google My Maps copy, import `layers/TOP10.kml` into a new map, then add a layer for each remaining KML in `layers/`. KML folders may not become separate switchable layers in every application. The hosted map is public, with internet search discovery enabled. Google Search indexing is not guaranteed; the KML files can also be downloaded independently.
 
 ## Data sources and validation
 
